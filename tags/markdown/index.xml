@@ -5,12 +5,20 @@
     <link>https://zhongjingjiang.github.io/tags/markdown/</link>
       <atom:link href="https://zhongjingjiang.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhongjingjiang.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Markdown</title>
       <link>https://zhongjingjiang.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>海洋温度达历史新高，我们正在走向未知</title>
+      <link>https://zhongjingjiang.github.io/writing/zsfz-ocean/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/writing/zsfz-ocean/</guid>
+      <description>&lt;p&gt;气候变化“缓冲器”失灵了吗？&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
@@ -99,30 +107,6 @@
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>https://zhongjingjiang.github.io/writing/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://zhongjingjiang.github.io/writing/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://zhongjingjiang.github.io/writing/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://zhongjingjiang.github.io/writing/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://zhongjingjiang.github.io/writing/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://zhongjingjiang.github.io/writing/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>✅ Manage your projects</title>
       <link>https://zhongjingjiang.github.io/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
@@ -195,6 +179,30 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>超强暴雨、高温、极端干旱，今年又是“水深火热”的一年？</title>
+      <link>https://zhongjingjiang.github.io/writing/zsfz-extreme-events/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/writing/zsfz-extreme-events/</guid>
+      <description>&lt;p&gt;地球怎么了？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>江西特旱仍在持续！极端事件预测，谁能给个准话？</title>
+      <link>https://zhongjingjiang.github.io/writing/zsfz-drought/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/writing/zsfz-drought/</guid>
+      <description>&lt;p&gt;极端“热”气候下的“冷”思考&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>珠峰上放飞的气球，如何研究 “双面人” 臭氧？</title>
+      <link>https://zhongjingjiang.github.io/writing/zsfz-o3/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/writing/zsfz-o3/</guid>
+      <description>&lt;p&gt;臭氧研究还有哪些挑战？&lt;/p&gt;</description>
     </item>
     
   </channel>
